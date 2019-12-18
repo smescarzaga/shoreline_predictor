@@ -10,4 +10,4 @@ This script is run outside of ArcMap, however, the entities it calls for are sha
 
 ![image](https://github.com/smescarzaga/shoreline_predictor/blob/master/4.JPG)
 ![image](https://github.com/smescarzaga/shoreline_predictor/blob/master/2.JPG)
-![image](https://github.com/smescarzaga/shoreline_predictor/blob/master/11.J)
+![image](https://github.com/smescarzaga/shoreline_predictor/blob/master/11.JPG)
